@@ -7,6 +7,7 @@ Step 1. Install the required package, using NuGet to install:
 3. Microsoft.EntityFrameworkCore
 4. Microsoft.EntityFrameworkCore.Tools
 5. MySql.Data.EntityFramework
+6. Pomela.EntityFrameworkCore.MySql
 
 Next we need to add the middleware into the service 
 Step 2. Add the database connection:
